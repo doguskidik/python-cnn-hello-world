@@ -7,3 +7,7 @@ The MNIST handwritten digit classification problem is a standard dataset used in
 * How to develop a test harness to develop a robust evaluation of a model and establish a baseline of performance for a classification task.
 * How to explore extensions to a baseline model to improve learning and model capacity.
 * How to develop a finalized model, evaluate the performance of the final model, and use it to make predictions on new images.
+
+## Model Results
+
+A157B105-F40E-4505-ABD1-03EB8E3EB6B1.png

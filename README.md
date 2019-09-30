@@ -10,4 +10,4 @@ The MNIST handwritten digit classification problem is a standard dataset used in
 
 ## Model Results
 
-A157B105-F40E-4505-ABD1-03EB8E3EB6B1.png
+![](A157B105-F40E-4505-ABD1-03EB8E3EB6B1.png)
